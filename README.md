@@ -1,1 +1,1 @@
-# src-iot-praktikum-i2c
+# Kode Program untuk praktikum I2C pada mata kuliah IOT
